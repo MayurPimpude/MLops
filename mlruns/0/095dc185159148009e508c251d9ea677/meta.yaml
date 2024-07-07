@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mayur/Desktop/vs%20code/programs/mlops/mlruns/0/095dc185159148009e508c251d9ea677/artifacts
+end_time: 1720285156635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 095dc185159148009e508c251d9ea677
+run_name: silent-dove-167
+run_uuid: 095dc185159148009e508c251d9ea677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720285156525
+status: 3
+tags: []
+user_id: mayur

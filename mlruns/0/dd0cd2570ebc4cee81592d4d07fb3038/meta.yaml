@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mayur/Desktop/vs%20code/programs/mlops/mlruns/0/dd0cd2570ebc4cee81592d4d07fb3038/artifacts
+end_time: 1720285156452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd0cd2570ebc4cee81592d4d07fb3038
+run_name: useful-quail-337
+run_uuid: dd0cd2570ebc4cee81592d4d07fb3038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720285150373
+status: 3
+tags: []
+user_id: mayur

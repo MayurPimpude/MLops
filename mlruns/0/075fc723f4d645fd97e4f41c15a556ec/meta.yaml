@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mayur/Desktop/vs%20code/programs/mlops/mlruns/0/075fc723f4d645fd97e4f41c15a556ec/artifacts
+end_time: 1720284782652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 075fc723f4d645fd97e4f41c15a556ec
+run_name: adorable-grouse-352
+run_uuid: 075fc723f4d645fd97e4f41c15a556ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720284776473
+status: 3
+tags: []
+user_id: mayur
