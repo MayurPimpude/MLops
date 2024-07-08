@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mayur/Desktop/vs%20code/programs/mlops/mlruns/0/879e1195bb8144d5a5d3bd0021c8ddbc/artifacts
+end_time: 1720418054198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 879e1195bb8144d5a5d3bd0021c8ddbc
+run_name: redolent-cat-779
+run_uuid: 879e1195bb8144d5a5d3bd0021c8ddbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720418046947
+status: 3
+tags: []
+user_id: mayur
